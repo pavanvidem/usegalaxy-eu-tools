@@ -6,6 +6,7 @@ tools:
   owner: recetox
   revisions:
   - 32b66fb6a6a0
+  - 6ba3526237e0
   - 702a849c1e0e
   - e7305ba0dd38
   - ebca18e223bf
@@ -16,12 +17,14 @@ tools:
   - 99d118321d5f
   - a9bb2ccc53de
   - c3d4b82c7e5d
+  - e0536ff73f36
   - e2cb970d99dd
   tool_panel_section_label: Metabolomics
 - name: recetox_aplcms_correct_time
   owner: recetox
   revisions:
   - 02c772a49998
+  - 1574b8a29e6f
   - 474d2bcb22e4
   - bd1956f4c2aa
   - d69ec1171d71
@@ -33,6 +36,7 @@ tools:
   - 15aae2bfa67d
   - 550667ce03f1
   - 60a09c4fa7a0
+  - b9b19a74ac01
   tool_panel_section_label: Metabolomics
 - name: recetox_aplcms_remove_noise
   owner: recetox
@@ -40,11 +44,13 @@ tools:
   - 12bf74dd09f1
   - 156293ea9f88
   - 8fb5e458831f
+  - b5a1f35abd8a
   - d90187b0f247
   tool_panel_section_label: Metabolomics
 - name: recetox_aplcms_merge_known_table
   owner: recetox
   revisions:
+  - 04892b463957
   - 396a3b1eafd0
   - 8ecb609cc265
   - dd7bbc2b99d1
@@ -54,6 +60,7 @@ tools:
   owner: recetox
   revisions:
   - 481d769e2f7a
+  - 4963811b6dec
   - 51e37adf988f
   - e2dc815e1b2c
   - f8c4db95eec3
@@ -65,11 +72,13 @@ tools:
   - 2b6bfa234d8b
   - 2d13fcae8b84
   - 7b42ee54d757
+  - d5c638b72ce4
   tool_panel_section_label: Metabolomics
 - name: rmassbank
   owner: recetox
   revisions:
   - 0b28816c1c2c
+  - 5a6bb93ec656
   - c1a9c990d4b0
   tool_panel_section_label: Metabolomics
 - name: biotransformer
@@ -86,6 +95,7 @@ tools:
   - 3e2cb0bc6959
   - 90745ecc5e9f
   - a6af1e124e06
+  - b5467dead5b1
   tool_panel_section_label: Metabolomics
 - name: riassigner
   owner: recetox
@@ -105,6 +115,7 @@ tools:
   - 2ec9253a647e
   - 9b716db0a786
   - d70dd1d6ac4d
+  - da7722f665f4
   tool_panel_section_label: Metabolomics
 - name: ramclustr_define_experiment
   owner: recetox
@@ -113,12 +124,14 @@ tools:
   - 5f2b58dadb39
   - 7bbdcce50541
   - 7c50666b88e8
+  - f2c1d0bbb074
   tool_panel_section_label: Metabolomics
 - name: recetox_xmsannotator_advanced
   owner: recetox
   revisions:
   - 2c6fa447f6a0
   - 50ac7359ffe7
+  - 6b5dec818827
   - cfd2e19f00a9
   tool_panel_section_label: Metabolomics
 - name: matchms_convert
@@ -129,6 +142,7 @@ tools:
   - 206ba7b3017a
   - 4845979fbe02
   - 5d8553853fab
+  - 692471e62c68
   - 72759b974615
   - 865d1539e64f
   - b9cc12600553
@@ -145,6 +159,7 @@ tools:
   - 4e8a6d6f0e6a
   - 51da674b945d
   - 68fde0dc3d83
+  - 7c5b86026e57
   - 8fb8ac6c37b0
   - a14e7fe18387
   - d88b20d27caa
@@ -154,6 +169,7 @@ tools:
   revisions:
   - 0676c9aeaeac
   - 0a64e2bcce96
+  - 19367db5cf3c
   - 358a151ab81e
   - 51ac25987e83
   - 6b5867cab698
@@ -165,6 +181,7 @@ tools:
   owner: recetox
   revisions:
   - 039e7ab31836
+  - 07cac38cbd29
   - 13de8005adba
   - 3370f5b08d19
   - 357df6c47d92
@@ -187,6 +204,7 @@ tools:
   - 79accd21387c
   - 84af792d3a78
   - 99da744050b7
+  - ad9d2d1b2b8d
   - cbfd7c35e0a4
   - cdb41d95648c
   - da9c5d40d1ba
@@ -203,6 +221,7 @@ tools:
   - 34439ffa6a60
   - 402620029a7a
   - 48ade5cc847f
+  - 6501d0287dcd
   - 86a45ba3d3f2
   - 9287136a396a
   - ae45992f969e
@@ -225,6 +244,7 @@ tools:
   - 9b36710378ce
   - c01868645f1b
   - cbadbec49b5d
+  - dd49ef90297c
   - f04610d25411
   tool_panel_section_label: Metabolomics
 - name: matchms_metadata_match
@@ -236,6 +256,7 @@ tools:
   - 43d40415654c
   - 44441b0ee4dd
   - 7d171a8c71dc
+  - 844d32c59314
   - 8a6bcc83171a
   - 91b4b0c9a384
   - b5b360897004
@@ -256,6 +277,7 @@ tools:
   - 8147d93d372d
   - 9982b85ff4e7
   - 9f2e7e1600c0
+  - ab8a33c370f5
   - d8e937f335b8
   - fe2d9e061bbf
   tool_panel_section_label: Metabolomics
@@ -268,6 +290,7 @@ tools:
 - name: matchms_spectral_similarity
   owner: recetox
   revisions:
+  - 26c92af1bd28
   - 3f96c93f8566
   - 44e7027714d7
   - 50229f084c4e
@@ -290,6 +313,7 @@ tools:
   - 14a792c45c0b
   - 1dcd8b0bd608
   - 3155f877b9d5
+  - 446fddefcee7
   - 5bdb8e7841f4
   - 97be845e45c2
   - 986ecfc55ed9
@@ -305,6 +329,7 @@ tools:
   - 9231f7bee46d
   - a598091029ad
   - aa2e912f9dc2
+  - cab0e4dcf372
   - d11b27e59dfa
   - d8525504d332
   - dc4de3b3402a
@@ -322,10 +347,12 @@ tools:
   - c1c1cb295b74
   - caf007467c84
   - ec25de0f0c58
+  - fc1a698a71e8
   tool_panel_section_label: Metabolomics
 - name: waveica
   owner: recetox
   revisions:
+  - 1a2aeb8137bf
   - 425c0494ec2d
   - 6480c6d5fa36
   - b77023c41c76
@@ -352,6 +379,7 @@ tools:
   revisions:
   - 0d9d72ef658f
   - 6c118de4b735
+  - c1f752721827
   tool_panel_section_label: ChemicalToolBox
 - name: qcxms_production_run
   owner: recetox
@@ -361,6 +389,7 @@ tools:
 - name: qcxms_getres
   owner: recetox
   revisions:
+  - af8839475b43
   - ef51824f6d04
   tool_panel_section_label: ChemicalToolBox
 - name: use_theoretical_mz_annotations

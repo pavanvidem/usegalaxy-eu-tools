@@ -9,6 +9,7 @@ tools:
   - 1ec814014652
   - 494b2ec08162
   - 4df8de2d0e48
+  - 516a54ddf218
   - 653e89d73fc4
   - 6591f049cf7e
   - 69ebb7f46e45
@@ -202,6 +203,7 @@ tools:
   - c4dba88e85ef
   - cbe065fbd038
   - cc18f0f3514c
+  - ed86a8f378c8
   tool_panel_section_label: Data Managers
 - name: format_metaphlan2_output
   owner: bebatut
